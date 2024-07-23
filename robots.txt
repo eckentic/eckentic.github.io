@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eckentic.github.io/sitemap
+Sitemap: https://eckentic.github.io/app/sitemap
+Sitemap: https://eckentic.github.io/assets/sitemap
+Sitemap: https://eckentic.github.io/css/sitemap
+Sitemap: https://eckentic.github.io/includes/sitemap
+Sitemap: https://eckentic.github.io/item/sitemap
+Sitemap: https://eckentic.github.io/src/sitemap
